@@ -1,0 +1,15 @@
+/workspaces/patterns/Pattern6App/bin/Debug/net8.0/Pattern6App
+/workspaces/patterns/Pattern6App/bin/Debug/net8.0/Pattern6App.deps.json
+/workspaces/patterns/Pattern6App/bin/Debug/net8.0/Pattern6App.runtimeconfig.json
+/workspaces/patterns/Pattern6App/bin/Debug/net8.0/Pattern6App.dll
+/workspaces/patterns/Pattern6App/bin/Debug/net8.0/Pattern6App.pdb
+/workspaces/patterns/Pattern6App/obj/Debug/net8.0/Pattern6App.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/patterns/Pattern6App/obj/Debug/net8.0/Pattern6App.AssemblyInfoInputs.cache
+/workspaces/patterns/Pattern6App/obj/Debug/net8.0/Pattern6App.AssemblyInfo.cs
+/workspaces/patterns/Pattern6App/obj/Debug/net8.0/Pattern6App.csproj.CoreCompileInputs.cache
+/workspaces/patterns/Pattern6App/obj/Debug/net8.0/Pattern6App.sourcelink.json
+/workspaces/patterns/Pattern6App/obj/Debug/net8.0/Pattern6App.dll
+/workspaces/patterns/Pattern6App/obj/Debug/net8.0/refint/Pattern6App.dll
+/workspaces/patterns/Pattern6App/obj/Debug/net8.0/Pattern6App.pdb
+/workspaces/patterns/Pattern6App/obj/Debug/net8.0/Pattern6App.genruntimeconfig.cache
+/workspaces/patterns/Pattern6App/obj/Debug/net8.0/ref/Pattern6App.dll
