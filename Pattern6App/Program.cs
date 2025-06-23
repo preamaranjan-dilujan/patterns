@@ -20,8 +20,12 @@ public class Program
         // pattern10.PrintPattern(3);
         // System.Console.WriteLine();
 
-        Pattern11 pattern11 = new Pattern11();
-        pattern11.PrintPattern(5);
+        // Pattern11 pattern11 = new Pattern11();
+        // pattern11.PrintPattern(5);
+        // System.Console.WriteLine();
+
+        Pattern12 pattern12 = new Pattern12();
+        pattern12.PrintPattern(5);
         System.Console.WriteLine();
     }
 }
