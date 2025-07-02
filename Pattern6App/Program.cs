@@ -30,5 +30,8 @@ public class Program
 
         Pattern13.PrintPattern(5);
         System.Console.WriteLine();
+
+        Pattern14.PrintPattern(5);
+        System.Console.WriteLine();
     }
 }
